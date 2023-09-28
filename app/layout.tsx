@@ -5,8 +5,8 @@ import { Inter } from 'next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Comida a domicilio para empresas | Sabor en la Oficina',
-  description: 'Comer sano en el trabajo ya no es un reto. Con nuestro servicio, puedes disfrutar de comidas equilibradas y disponer de tiempo adicional para dedicarlo a lo que más te importa.',
+  title: 'Comidas para niños en escuelas | Sabor en la Oficina',
+  description: 'Conseguir que las niñas y niños de tu escuela coman sano ya no es un reto. Con nuestro servicio, puedes disfrutar de comidas equilibradas y nutritivas, sin tener que preocuparte por la preparación ni la limpieza.',
 }
 
 export default function RootLayout({

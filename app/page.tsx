@@ -24,8 +24,8 @@ export default function Home() {
                 <div className="max-w-md lg:max-w-2xl mx-auto lg:mr-0">
                   <div className="max-w-2xl">
                     <h1 className="font-heading text-5xl xs:text-6xl md:text-8xl xl:text-8xl font-bold text-gray-900 mb-8 sm:mb-14">
-                      <span>Comer sano en la oficina</span>
-                      <span className="font-serif italic"> nunca fue tan fácil</span>
+                      <span>Comida sana para</span>
+                      <span className="font-serif italic"> tu escuela</span>
                     </h1>
                   </div>
                   <div className="md:flex mb-14 max-w-xs sm:max-w-sm md:max-w-none">
@@ -35,7 +35,7 @@ export default function Home() {
                       </svg>
                     </div>
                     <div className="max-w-md space-y-6">
-                      <p className="md:text-xl text-gray-600 font-semibold">Comer sano en el trabajo ya no es un reto. Con nuestro servicio, puedes disfrutar de comidas equilibradas y disponer de tiempo adicional para dedicarlo a lo que más te importa.</p>
+                      <p className="md:text-xl text-gray-600 font-semibold">Conseguir que las niñas y niños de tu escuela coman sano ya no es un reto. Con nuestro servicio, puedes disfrutar de comidas equilibradas y nutritivas, sin tener que preocuparte por la preparación ni la limpieza.</p>
                       <p className="md:text-xl text-gray-600 font-semibold">Disponible en Gran Canaria, zona Minilla, 7 Palmas y Guanarteme.</p>
                     </div>
                   </div>
@@ -76,7 +76,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold">Comida saludable</h3>
-                    <span className="text-sm text-gray-400">Nuestra comida casera se prepara con ingredientes frescos y saludables, para que disfrutes de comidas deliciosas y equilibradas.</span>
+                    <span className="text-sm text-gray-400">Nuestra comida casera se prepara con ingredientes frescos y saludables, para que l@s más pequeñ@s disfruten de comidas deliciosas y equilibradas.</span>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -85,7 +85,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold">Variedad de menús</h3>
-                    <span className="text-sm text-gray-400">Ofrecemos una amplia gama de opciones en nuestro menú para satisfacer todos los gustos y preferencias, desde platos tradicionales hasta opciones vegetarianas y veganas.</span>
+                    <span className="text-sm text-gray-400">Ofrecemos opciones veganas, vegetarianas y adaptadas a las diferentes alergias de l@s más peques.</span>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -94,7 +94,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold">De la cocina a tu mesa</h3>
-                    <span className="text-sm text-gray-400">Recibe tus comidas directamente en la oficina, calientes y listas para disfrutar, sin demoras ni complicaciones.</span>
+                    <span className="text-sm text-gray-400">Recibe las comidas directamente en la escuela, calientes y listas para disfrutar, sin demoras ni complicaciones.</span>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -112,7 +112,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold">Sabor auténtico</h3>
-                    <span className="text-sm text-gray-400">Cada plato es cocinado con el cariño y la atención que se encuentra en casa, para brindarte el sabor genuino de la comida casera.</span>
+                    <span className="text-sm text-gray-400">Cada plato es cocinado con el cariño y la atención que se encuentra en casa, para brindarles el sabor genuino de la comida casera.</span>
                   </div>
                 </div>
                 <div className="flex items-start">
@@ -121,7 +121,7 @@ export default function Home() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold">Adaptado a tus gustos</h3>
-                    <span className="text-sm text-gray-400">Ajustamos nuestros menús para satisfacer tus preferencias personales, para que cada comida sea justo como te gusta.</span>
+                    <span className="text-sm text-gray-400">Ajustamos nuestros menús para satisfacer sus preferencias personales, para que cada comida sea justo como les gusta.</span>
                   </div>
                 </div>
                 <div className="flex items-start justify-center md:col-span-2 lg:col-span-3 border border-green-100 p-8 rounded-lg bg-green-50">
@@ -144,30 +144,29 @@ export default function Home() {
               <div className="w-full lg:w-1/2 px-4 mb-12 lg:mb-0">
                 <div className="max-w-md md:max-w-lg mx-auto lg:mx-0">
                   <h2 className="font-heading text-4xl xs:text-6xl md:text-6xl font-bold text-gray-900 mb-12">
-                    <span className="block">Te ayudamos a tener
-                    <span className="font-serif italic"> más horas al día</span></span>
+                    <span className="block">Las comidas de la escuela,
+                    <span className="font-serif italic"> sanas y nutritivas</span></span>
                   </h2>
                   <ul className="mb-6">
                     <li className="flex mb-6 items-center">
                       <img className="w-6 h-6 mr-4" src="/saturn-assets/images/content/check-green.svg" alt="" />
-                      <span className="text-base xs:text-lg font-semibold text-gray-900">Equilibra tus responsabilidades laborales con una alimentación nutritiva</span>
+                      <span className="text-base xs:text-lg font-semibold text-gray-900">Garantizamos nutrición de calidad</span>
                     </li>
                     <li className="flex mb-6 items-center">
                       <img className="w-6 h-6 mr-4" src="/saturn-assets/images/content/check-green.svg" alt="" />
-                      <span className="text-base xs:text-lg font-semibold text-gray-900">Recupera horas para compartir con tu familia y amigos</span>
+                      <span className="text-base xs:text-lg font-semibold text-gray-900">Paz mental para familiares y cuidador@s</span>
                     </li>
                     <li className="flex items-center">
                       <img className="w-6 h-6 mr-4" src="/saturn-assets/images/content/check-green.svg" alt="" />
-                      <span className="text-base xs:text-lg font-semibold text-gray-900">Simplifica tu vida en la oficina y mejora tu bienestar personal</span>
+                      <span className="text-base xs:text-lg font-semibold text-gray-900">Asegúrate de que tus peques están comiendo bien</span>
                     </li>
                   </ul>
                 </div>
               </div>
               <div className="w-full lg:w-1/2 px-4">
                 <div className="max-w-md md:max-w-lg mx-auto lg:mr-0">
-                  <p className="text-lg text-gray-700 mb-5">La vida en la oficina puede ser una vorágine interminable de tareas y reuniones, lo que a menudo hace que <strong>la comida saludable sea un lujo inalcanzable</strong>. Pasar largas horas en el trabajo y luego lidiar con la preparación de comidas puede resultar agotador y poco atractivo. Además, optar por comer fuera de la oficina a diario no solo es costoso, sino que a menudo significa sacrificar la <strong>calidad de la comida</strong>.</p>
-                  <p className="text-lg text-gray-700 mb-5">En <em>Sabor en la Oficina</em>, hemos encontrado la solución para que disfrutes de comida saludable en la oficina sin tener que gastar tu valioso tiempo en la cocina. Imagina saborear <strong>platos caseros y nutritivos cada día</strong> laboral, sin comprometer la calidad ni tu bienestar. Con nuestro servicio, <strong>la comida sana y deliciosa es una realidad</strong>.</p>
-                  <p className="text-lg text-gray-700 mb-8">Al liberarte de la preocupación por la comida en la oficina, tendrás <strong>más tiempo para dedicarlo a lo que realmente importa</strong>: tu familia, amigos y momentos de calidad. <em>Sabor en la Oficina</em> no solo es una solución para tu alimentación en el trabajo, sino también una forma de <strong>recuperar tu tiempo libre y disfrutar de la vida</strong>.</p>
+                  <p className="text-lg text-gray-700 mb-5">La gestión de la alimentación en una escuela o guardería puede ser un desafío constante, especialmente cuando se trata de proporcionar comidas nutritivas y saludables para los más pequeños. Encontrar un catering de calidad que cumpla con estos estándares puede ser una tarea bastante complicada. Además, sabemos que para los padres, <strong>la tranquilidad en cuanto a la alimentación de sus hijos es una prioridad.</strong></p>
+                  <p className="text-lg text-gray-700 mb-5">En <em>Sabor en la Oficina</em>, comprendemos estos desafíos y estamos aquí para ofrecer una solución confiable. Nuestro servicio de catering para guarderías está diseñado específicamente para garantizar que los niños reciban <strong>comidas de calidad, nutritivas y deliciosas</strong>. <strong>Nos preocupamos por la salud y el bienestar</strong> de l@s más pequeñ@s tanto como tú. Con <em>Sabor en la Oficina</em>, los padres pueden estar seguros de que l@s peques están siendo alimentados con <strong>cuidado y atención</strong>, proporcionándoles la tranquilidad que merecen.</p>
                 </div>
               </div>
             </div>
@@ -220,7 +219,7 @@ export default function Home() {
         <div className="relative container px-4 mx-auto">
           <div className="max-w-2xl lg:max-w-5xl mx-auto mb-20 text-center">
             <h2 className="font-heading text-5xl sm:text-6xl font-bold text-gray-900 mb-6">
-              <span>Comer en la oficina</span>
+              <span>Comer en la escuela</span>
               <span className="font-serif italic"> a buen precio</span>
             </h2>
             <p className="text-2xl text-center text-gray-600">Aprovecha y únete a la lista de espera <strong>antes del 15 de Octubre</strong> y tendrás descuento <strong>permanente</strong> después de nuestra apertura a finales de Noviembre.</p>
@@ -231,10 +230,10 @@ export default function Home() {
               <div className="md:flex items-center justify-between">
                 <div className="max-w-xs mx-auto md:mx-0 mb-10 md:mb-0">
                   <h3 className="text-2xl font-semibold mb-4">Menú semanal</h3>
-                  <p className="text-gray-500">1 primero y 1 segundo cada día, de lunes a viernes durante una semana.</p>
+                  <p className="text-gray-500">1 primero y 1 segundo cada día, con una pieza de fruta, de lunes a viernes durante una semana.</p>
                 </div>
                 <div className="text-right">
-                  <span className="block text-5xl font-bold text-gray-900 mb-4"><span className="line-through text-gray-500 text-4xl">40</span>&nbsp;30€</span>
+                  <span className="block text-5xl font-bold text-gray-900 mb-4"><span className="line-through text-gray-500 text-4xl">30</span>&nbsp;25€</span>
                   <a className="inline-block py-4 px-6 text-center text-orange-900 border border-gray-200 hover:border-orange-900 font-semibold rounded-full transition duration-200" href="#apuntarme">Apuntarme</a>
                 </div>
               </div>
@@ -243,22 +242,10 @@ export default function Home() {
               <div className="md:flex items-center justify-between">
                 <div className="max-w-xs mx-auto md:mx-0 mb-10 md:mb-0">
                   <h5 className="text-2xl font-semibold mb-4">Menú mensual</h5>
-                  <p className="text-gray-500">1 primero y 1 segundo cada día, de lunes a viernes durante todo un mes.</p>
+                  <p className="text-gray-500">1 primero y 1 segundo cada día, con una pieza de fruta, de lunes a viernes durante todo un mes.</p>
                 </div>
                 <div className="text-right">
-                  <span className="block text-5xl font-bold text-gray-900 mb-4"><span className="line-through text-gray-500 text-4xl">150</span>&nbsp;100€</span>
-                  <a className="inline-block py-4 px-6 text-center text-orange-900 border border-gray-200 hover:border-orange-900 font-semibold rounded-full transition duration-200" href="#apuntarme">Apuntarme</a>
-                </div>
-              </div>
-            </div>
-            <div className="max-w-md md:max-w-none mx-auto px-12 py-8 bg-white rounded-3xl shadow-lg">
-              <div className="md:flex items-center justify-between">
-                <div className="max-w-xs mx-auto md:mx-0 mb-10 md:mb-0">
-                  <h5 className="text-2xl font-semibold mb-4">Descuento para grupos</h5>
-                  <p className="text-gray-500">Si pedís un menú semanal o mensual más de 5 personas de la misma oficina, tendréis un descuento de un 15% adicional</p>
-                </div>
-                <div className="text-right">
-                  <span className="block text-5xl font-bold text-gray-900 mb-4">15%</span>
+                  <span className="block text-5xl font-bold text-gray-900 mb-4"><span className="line-through text-gray-500 text-4xl">120</span>&nbsp;100€</span>
                   <a className="inline-block py-4 px-6 text-center text-orange-900 border border-gray-200 hover:border-orange-900 font-semibold rounded-full transition duration-200" href="#apuntarme">Apuntarme</a>
                 </div>
               </div>
@@ -275,7 +262,7 @@ export default function Home() {
               <span>Cómo</span>
               <span className="font-serif italic"> funciona</span>
             </h2>
-            <p className="max-w-md mx-auto text-lg text-gray-500">Intentamos hacer un proceso simple y rápido para .</p>
+            <p className="max-w-md mx-auto text-lg text-gray-500">Hacer un pedido es un proceso simple, rápido y online.</p>
           </div>
           <div className="max-w-7xl mx-auto px-8 py-18 xs:px-12 sm:p-24 bg-orange-50 rounded-4xl">
             <div className="flex flex-wrap items-center -mx-4">
