@@ -36,7 +36,7 @@ export default function Home() {
                     </div>
                     <div className="max-w-md space-y-6">
                       <p className="md:text-xl text-gray-600 font-semibold">Conseguir que las niñas y niños de tu escuela coman sano ya no es un reto. Con nuestro servicio, puedes disfrutar de comidas equilibradas y nutritivas, sin tener que preocuparte por la preparación ni la limpieza.</p>
-                      <p className="md:text-xl text-gray-600 font-semibold">Disponible en Gran Canaria, zona Minilla, 7 Palmas y Guanarteme.</p>
+                      <p className="md:text-xl text-gray-600 font-semibold">Disponible en Gran Canaria, zona Minilla, 7 Palmas, Tamaraceite, Arucas y Guanarteme.</p>
                     </div>
                   </div>
                   <div className="sm:flex items-center">
@@ -126,8 +126,8 @@ export default function Home() {
                 </div>
                 <div className="flex items-start justify-center md:col-span-2 lg:col-span-3 border border-green-100 p-8 rounded-lg bg-green-50">
                   <div className="max-w-2xl text-center">
-                    <h3 className="text-xl font-semibold">Zona 7 Palmas, La Minilla, Guanarteme</h3>
-                    <span className="text-sm text-green-900">Por el momento repartimos en la zona de 7 Palmas, La Minilla y la capital Gran Canaria. ¡No dudes en apuntarte a la lista de espera aún estando en otra zona!</span>
+                    <h3 className="text-xl font-semibold">Zona 7 Palmas, La Minilla, Guanarteme, Tamaraceite y Arucas</h3>
+                    <span className="text-sm text-green-900">Por el momento repartimos en la zona de 7 Palmas, La Minilla, Tamaraceite, Arucas y la capital Gran Canaria. ¡No dudes en apuntarte a la lista de espera aún estando en otra zona!</span>
                   </div>
                 </div>
               </div>
@@ -166,7 +166,7 @@ export default function Home() {
               <div className="w-full lg:w-1/2 px-4">
                 <div className="max-w-md md:max-w-lg mx-auto lg:mr-0">
                   <p className="text-lg text-gray-700 mb-5">La gestión de la alimentación en una escuela o guardería puede ser un desafío constante, especialmente cuando se trata de proporcionar comidas nutritivas y saludables para los más pequeños. Encontrar un catering de calidad que cumpla con estos estándares puede ser una tarea bastante complicada. Además, sabemos que para los padres, <strong>la tranquilidad en cuanto a la alimentación de sus hijos es una prioridad.</strong></p>
-                  <p className="text-lg text-gray-700 mb-5">En <em>Sabor en la Oficina</em>, comprendemos estos desafíos y estamos aquí para ofrecer una solución confiable. Nuestro servicio de catering para guarderías está diseñado específicamente para garantizar que los niños reciban <strong>comidas de calidad, nutritivas y deliciosas</strong>. <strong>Nos preocupamos por la salud y el bienestar</strong> de l@s más pequeñ@s tanto como tú. Con <em>Sabor en la Oficina</em>, los padres pueden estar seguros de que l@s peques están siendo alimentados con <strong>cuidado y atención</strong>, proporcionándoles la tranquilidad que merecen.</p>
+                  <p className="text-lg text-gray-700 mb-5">En <em>Sabor en la Oficina</em>, comprendemos estos desafíos y estamos aquí para ofrecer una solución confiable. Nuestro servicio de catering para guarderías está diseñado específicamente para garantizar que los niños reciban <strong>comidas de calidad, nutritivas y deliciosas</strong>. <strong>Nos preocupamos por la salud y el bienestar</strong> de l@s más pequeñ@s tanto como tú. Con <em>Sabor en la Escuela</em>, los padres pueden estar seguros de que l@s peques están siendo alimentados con <strong>cuidado y atención</strong>, proporcionándoles la tranquilidad que merecen.</p>
                 </div>
               </div>
             </div>
@@ -222,7 +222,7 @@ export default function Home() {
               <span>Comer en la escuela</span>
               <span className="font-serif italic"> a buen precio</span>
             </h2>
-            <p className="text-2xl text-center text-gray-600">Aprovecha y únete a la lista de espera <strong>antes del 15 de Octubre</strong> y tendrás descuento <strong>permanente</strong> después de nuestra apertura a finales de Noviembre.</p>
+            <p className="text-2xl text-center text-gray-600">Aprovecha y únete a la lista de espera <strong>antes del 15 de Noviembre</strong> y tendrás descuento <strong>permanente</strong> después de nuestra apertura a finales de Noviembre.</p>
           </div>
           <CountdownComponent />
           <div className="max-w-4xl mx-auto mt-12">
@@ -303,7 +303,7 @@ export default function Home() {
                     <h3 className="text-3xl md:text-5xl font-bold mb-5">
                       <span>¡Apúntate a la lista de espera!</span>
                     </h3>
-                    <p className="text-gray-900">Estamos preparando nuestro local en la zona de La Minilla y abriremos a finales de Noviembre.</p>
+                    <p className="text-gray-900">Estamos preparando nuestro local en la zona de Tamaraceite y abriremos a finales de Noviembre.</p>
                   </div>
                   <div className="flex flex-wrap items-center justify-between">
                     <a className="relative group inline-block w-full sm:w-auto py-4 px-6 text-orange-50 font-semibold bg-orange-900 rounded-full overflow-hidden" href="https://cq85zpm1tqm.typeform.com/to/QecUfyDU" target="_blank">
@@ -366,13 +366,13 @@ export default function Home() {
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">
                 <div className="flex flex-col h-full max-w-xs mx-auto md:max-w-none px-6 py-9 md:pl-9 md:pr-12 bg-white rounded-3xl shadow-lg">
                   <h4 className="text-xl font-semibold text-gray-900 mb-4">¿Dónde abrirán el local?</h4>
-                  <p className="text-gray-500 mb-4">Vamos a comenzar con el primer local en la zona de La Minilla, en Gran Canaria.</p>
+                  <p className="text-gray-500 mb-4">Vamos a comenzar con el primer local en la zona de Tamaraceite, en Gran Canaria.</p>
                 </div>
               </div>
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">
                 <div className="flex flex-col h-full max-w-xs mx-auto md:max-w-none px-6 py-9 md:pl-9 md:pr-12 bg-white rounded-3xl shadow-lg">
                   <h4 className="text-xl font-semibold text-gray-900 mb-4">¿Qué zonas de reparto habrá?</h4>
-                  <p className="text-gray-500 mb-4">En un principio se podrá repartir a la zona de La Minilla, 7 Palmas y Guanarteme.</p>
+                  <p className="text-gray-500 mb-4">En un principio se podrá repartir a la zona de La Minilla, 7 Palmas, Tamaraceite, Arucas y Guanarteme.</p>
                 </div>
               </div>
               <div className="w-full sm:w-1/2 lg:w-1/3 px-4 mb-8">

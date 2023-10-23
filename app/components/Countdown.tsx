@@ -37,7 +37,7 @@ const renderer = ({ days, hours, minutes, seconds, completed }: any) => {
 export default function CountdownComponent() {
     return (
         <Countdown
-            date={'2023-10-14 23:59:59'}
+            date={'2023-11-14 23:59:59'}
             renderer={renderer}
         />
     );
